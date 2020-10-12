@@ -1,4 +1,4 @@
-# Numerplate_carmodel_color_identification
+# Numberplate_carmodel_color_identification
 
 The aim was to identify car number plate, car model and car color in real time using open alpr and computervision.
 
